@@ -1,0 +1,9 @@
+.N=ö
+otobuslar
+cicekler
+cantalar
+anahtarlar
+mezarlar
+hayatlar
+deryalar
+oneralar
